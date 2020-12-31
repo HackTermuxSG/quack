@@ -4,7 +4,7 @@
 #
 # programador
 #
-# Created by: (_.Soy_Sergio._)
+# Created by: (_.Soy_Bastian._)
 #
 ##############################################################
 rm README.md
